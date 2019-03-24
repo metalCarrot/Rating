@@ -1,0 +1,20 @@
+[
+	{
+	"name": "Pavel",
+	"surname": "Fudko",
+	"subjects": {
+		"math": "178",
+		"phisical": "180",
+		"ukrLang": "169"
+	}
+	},
+	{
+		"name": "Lyubov",
+		"surname": "Havshyna",
+		"subjects": {
+			"math": "196",
+			"phisical": "175",
+			"ukrLang": "176"
+		}
+	}
+]
